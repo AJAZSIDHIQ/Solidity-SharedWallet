@@ -7,7 +7,9 @@ Real-World Use-Case for this Project
 - Employers give employees an allowance for their travel expenses.
 
 - Businesses give contractors an allowance to spend a certain budget.
-Development-Goal¶
+
+
+Development-Goal
 
 - Have an on-chain wallet smart contract.
 
